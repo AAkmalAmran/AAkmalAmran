@@ -1,16 +1,45 @@
-## Hi there 👋
+# Halo, Saya Ahmad Akmal Amran!
 
-<!--
-**AAkmalAmran/AAkmalAmran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom Bandung** yang memiliki ketertarikan besar pada **Software Development** dan **Game Development**.  
+Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan perangkat lunak berbasis web dan sistem berbasis data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tentang Saya
+- 💻 Tertarik dengan dunia **Backend Development**, **Game Programming**, dan **Data Management**
+- 🎮 Menyukai perkembangan **teknologi, smartphone, komponen PC, dan game**
+- 🎬 Hobi: menonton film, bermain game, serta membaca novel & komik
+
+---
+
+## 🎓 Pendidikan
+- **Universitas Telkom Bandung** (2023 – Sekarang)  
+  Program Studi: *S1 Sistem Informasi*
+- **SMAN 1 Manyar Gresik** (2020 – 2023)  
+  Jurusan: *IPA*
+
+---
+
+## 🧩 Keahlian
+- **Bahasa Pemrograman:** Python, Java, SQL  
+- **Framework & Tools:** Laravel, Streamlit, Visual Paradigm  
+- **Konsep & Model:** UML, BPMN, PBO (Pemrograman Berbasis Objek), Data Mining  
+
+---
+
+## 💼 Pengalaman Proyek 
+- **Sistem Restoran (Python + Streamlit + MySQL)** – Proyek mata kuliah Algoritma Pemrograman & Sistem Basis Data  
+- **Game Text-Based (Java + MySQL)** – Proyek mata kuliah Pemrograman Berbasis Objek  
+- **Forum Diskusi & Aspirasi Kampus (Laravel)** – Proyek mata kuliah Pengembangan Aplikasi Website  
+- **Analisis & Perancangan Sistem Informasi (Visual Paradigm)** – Pembuatan diagram Use Case, Activity, Sequence, Class, dan Component  
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: [ahmadakmalamran@gmail.com](mailto:ahmadakmalamran@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/ahmad-akmal-amran](https://www.linkedin.com/in/ahmad-akmal-amran/)  
+
+---
+
+> _“ ”_
+
