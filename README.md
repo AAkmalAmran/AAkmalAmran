@@ -5,14 +5,14 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 ---
 
-## 🧠 Tentang Saya
-- 💻 Tertarik dengan dunia **Backend Development**, **Game Programming**, dan **Data Management**
-- 🎮 Menyukai perkembangan **teknologi, smartphone, komponen PC, dan game**
-- 🎬 Hobi: menonton film, bermain game, serta membaca novel & komik
+## Tentang Saya
+- Tertarik dengan dunia **Backend Development**, **Game Programming**, dan **Data Management**
+- Menyukai perkembangan **teknologi, smartphone, komponen PC, dan game**
+- Hobi: menonton film, bermain game, serta membaca novel & komik
 
 ---
 
-## 🎓 Pendidikan
+## Pendidikan
 - **Universitas Telkom Bandung** (2023 – Sekarang)  
   Program Studi: *S1 Sistem Informasi*
 - **SMAN 1 Manyar Gresik** (2020 – 2023)  
@@ -20,14 +20,14 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 ---
 
-## 🧩 Keahlian
+## Keahlian
 - **Bahasa Pemrograman:** Python, Java, SQL  
 - **Framework & Tools:** Laravel, Streamlit, Visual Paradigm  
 - **Konsep & Model:** UML, BPMN, PBO (Pemrograman Berbasis Objek), Data Mining  
 
 ---
 
-## 💼 Pengalaman Proyek 
+## Pengalaman Proyek 
 - **Sistem Restoran (Python + Streamlit + MySQL)** – Proyek mata kuliah Algoritma Pemrograman & Sistem Basis Data  
 - **Game Text-Based (Java + MySQL)** – Proyek mata kuliah Pemrograman Berbasis Objek  
 - **Forum Diskusi & Aspirasi Kampus (Laravel)** – Proyek mata kuliah Pengembangan Aplikasi Website  
