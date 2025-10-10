@@ -35,7 +35,7 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 ---
 
-## 📫 Hubungi Saya
+## Hubungi Saya
 - 🔗 LinkedIn: [linkedin.com/in/ahmad-akmal-amran](https://www.linkedin.com/in/ahmad-akmal-amran/)
 - 📸 Instagram: [@ranaeza_](https://www.instagram.com/ranaeza_/)
 - 🎮 Steam: [steamcommunity.com/id/ranaeza](https://steamcommunity.com/id/ranaeza/)
