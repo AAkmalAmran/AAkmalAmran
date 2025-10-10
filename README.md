@@ -36,8 +36,8 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 ---
 
 ## 📫 Hubungi Saya
-- 📧 Email: [ahmadakmalamran@gmail.com](mailto:ahmadakmalamran@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ahmad-akmal-amran](https://www.linkedin.com/in/ahmad-akmal-amran/)  
+- 🔗 LinkedIn: [linkedin.com/in/ahmad-akmal-amran](https://www.linkedin.com/in/ahmad-akmal-amran/)
+- 📸 Instagram: [@ranaeza_](https://www.instagram.com/ranaeza_/)
 
 ---
 
