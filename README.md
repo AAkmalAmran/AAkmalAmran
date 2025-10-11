@@ -1,11 +1,10 @@
-# Halo, Saya Ahmad Akmal Amran!
-
-Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom Bandung** yang memiliki ketertarikan besar pada **Software Development** dan **Game Development**.  
-Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan perangkat lunak berbasis web dan sistem berbasis data.
-
+# Profile
 ---
 
 ## Tentang Saya
+Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom Bandung** yang memiliki ketertarikan besar pada **Software Development** dan **Game Development**.  
+Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan perangkat lunak berbasis web dan sistem berbasis data.
+
 - Tertarik dengan dunia **Backend Development**, **Game Programming**, dan **Data Management**
 - Menyukai perkembangan **teknologi, smartphone, komponen PC, dan game**
 - Hobi: menonton film, bermain game, serta membaca novel & komik
