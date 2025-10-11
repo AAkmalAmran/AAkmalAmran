@@ -1,5 +1,4 @@
 # Profile
----
 
 ## Tentang Saya
 Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom Bandung** yang memiliki ketertarikan besar pada **Software Development** dan **Game Development**.  
