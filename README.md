@@ -7,6 +7,7 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 - Tertarik dengan dunia **Backend Development**, **Game Programming**, dan **Data Management**
 - Menyukai perkembangan **teknologi, smartphone, komponen PC, dan game**
 - Hobi: menonton film, bermain game, serta membaca novel & komik
+- Game Favorit: Monster Hunter series 
 
 ---
 
