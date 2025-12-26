@@ -1,6 +1,6 @@
-![Image](https://github.com/user-attachments/assets/70bd0c44-2967-426d-8bd3-71ec24aad769)
+![Image](https://github.com/user-attachments/assets/83ac7cd7-9768-4f90-9f02-28f03190b3b4)
 ---
-# Profile
+#  Profile
 
 ## Tentang Saya
 Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom Bandung** yang memiliki ketertarikan besar pada **Software Development** dan **Game Development**.  
@@ -23,8 +23,8 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 ## Keahlian
 - **Bahasa Pemrograman:** Python, Java, SQL  
-- **Framework & Tools:** Laravel, Streamlit, Visual Paradigm  
-- **Konsep & Model:** UML, BPMN, PBO (Pemrograman Berbasis Objek), Data Mining  
+- **Framework & Tools:** Laravel, Streamlit, Flask, Visual Paradigm, Pentaho  
+- **Konsep & Model:** UML, BPMN, PBO (Pemrograman Berbasis Objek), Data Mining 
 
 ---
 
@@ -45,3 +45,4 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 > _“ ”_
 
+![Image](https://github.com/user-attachments/assets/70bd0c44-2967-426d-8bd3-71ec24aad769)
