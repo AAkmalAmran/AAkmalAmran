@@ -45,4 +45,4 @@ Saya senang mempelajari hal baru di bidang teknologi, terutama pengembangan pera
 
 > _“ ”_
 
-![Image](https://github.com/user-attachments/assets/70bd0c44-2967-426d-8bd3-71ec24aad769)
+![Image](https://github.com/user-attachments/assets/7891682a-0a45-42b1-abf4-a111409edc69)
