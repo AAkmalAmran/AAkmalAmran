@@ -44,15 +44,15 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 
 ## GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAkmalAmran&show_icons=true&theme=tokyonight&count_private=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAkmalAmran&show_icons=true&theme=tokyonight&count_private=true" /> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAkmalAmran&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAkmalAmran&theme=tokyonight" />
-</div>
+</div> -->
 
 ---
 
