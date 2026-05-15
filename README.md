@@ -5,7 +5,7 @@
 # Profile
 
 ## Tentang Saya
-Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom** yang memiliki ketertarikan besar pada **Software Development**, **Game Development**, dan **Data Analysis**.
+Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom** yang memiliki ketertarikan besar pada **Software Development**, **System Analyst**, **Data Analysis** dan **Game Development**.
 
 - Saat ini sedang fokus mendalami **Backend Development** dan **Cloud Computing**.
 - Sedang mempelajari **Cloud Computing**, **Unity**, dan **Web Development**.
