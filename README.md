@@ -82,7 +82,3 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 ## Hubungi Saya
 - 🔗 LinkedIn: [Ahmad Akmal Amran](https://www.linkedin.com/in/ahmad-akmal-amran/)
 - 📧 Email: ahmadakmalamran@gmail.com
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AAkmalAmran&label=Profile%20Views&color=0e75b6&style=flat" alt="AAkmalAmran" />
-</p>
