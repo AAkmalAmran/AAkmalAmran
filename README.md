@@ -55,13 +55,13 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 </div>
 
 ---
-
+<!--
 ## Pendidikan
 - **Universitas Telkom** (2023 – Sekarang)  
   Program Studi: *S1 Sistem Informasi*
 - **SMAN 1 Manyar Gresik** (2020 – 2023)  
   Jurusan: *IPA*
-
+-->
 ---
 
 ## Pengalaman Proyek 
