@@ -41,7 +41,7 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
+<!--
 ## GitHub Stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAkmalAmran&show_icons=true&theme=tokyonight&count_private=true" />
@@ -53,7 +53,7 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAkmalAmran&theme=tokyonight" />
 </div>
-
+-->
 ---
 <!--
 ## Pendidikan
