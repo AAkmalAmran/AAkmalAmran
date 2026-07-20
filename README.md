@@ -79,7 +79,8 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 - **Game Text-Based (Java + MySQL)** – Pengembangan logika permainan menggunakan konsep Pemrograman Berbasis Objek.
 -->
 ---
-
+<!--
 ## Hubungi Saya
 - 🔗 LinkedIn: [Ahmad Akmal Amran](https://www.linkedin.com/in/ahmad-akmal-amran/)
 - 📧 Email: ahmadakmalamran@gmail.com
+-->
