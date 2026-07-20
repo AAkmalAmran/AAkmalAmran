@@ -1,5 +1,6 @@
+<!--
 ![Header Image](https://github.com/user-attachments/assets/7891682a-0a45-42b1-abf4-a111409edc69)
-
+-->
 ---
 
 # Profile
@@ -63,7 +64,7 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
   Jurusan: *IPA*
 -->
 ---
-
+<!--
 ## Pengalaman Proyek 
 
 ### Data & Business Intelligence
@@ -76,7 +77,7 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 - **Forum Diskusi & Aspirasi Kampus (Laravel)** – Pengembangan platform berbasis web untuk interaksi civitas akademika.
 - **Sistem Restoran (Python + Streamlit)** – Aplikasi manajemen restoran terintegrasi dengan basis data MySQL.
 - **Game Text-Based (Java + MySQL)** – Pengembangan logika permainan menggunakan konsep Pemrograman Berbasis Objek.
-
+-->
 ---
 
 ## Hubungi Saya
