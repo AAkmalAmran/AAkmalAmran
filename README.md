@@ -2,7 +2,7 @@
 ![Header Image](https://github.com/user-attachments/assets/7891682a-0a45-42b1-abf4-a111409edc69)
 -->
 ---
-
+<!--
 # Profile
 
 ## Tentang Saya
@@ -11,7 +11,7 @@ Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Infor
 - Saat ini sedang fokus mendalami **Backend Development**, **Cloud Computing**, dan **Linux (Fedora)**.
 - Sedang mempelajari **Cloud Computing** dan **Web Development**.
 - Hobi: Menikmati dunia *gaming* dan eksplorasi teknologi terbaru.
-
+-->
 ---
 
 ## Tech Stack
