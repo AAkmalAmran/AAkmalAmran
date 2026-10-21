@@ -78,8 +78,8 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAkmalAmran&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAkmalAmran&theme=tokyonight" />
-</div>
+</div> -->
 
 ---
