@@ -13,7 +13,11 @@
 <p><a href="https://github.com/aakmalamran">GitHub</a> &nbsp;·&nbsp; <a href="https:linkedin.com/in/ahmad-akmal-amran">LinkedIn</a> &nbsp;·&nbsp; <a href="https://akmalamranaeza-portfolio.vercel.app">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/165998981?u=c8bcef5ba0aec9fdde39269243c25e7171cbc1c6&amp;v=4" width="180" alt="Ahmad Akmal Amran GitHub avatar" />
+<!-- <img src="https://avatars.githubusercontent.com/u/165998981?u=c8bcef5ba0aec9fdde39269243c25e7171cbc1c6&amp;v=4" width="180" alt="Ahmad Akmal Amran GitHub avatar" /> -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="450" alt="Ahmad Akmal Amran animated terminal portrait" />
+</picture>
 </td>
 </tr>
 </table>
