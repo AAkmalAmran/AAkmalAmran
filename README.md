@@ -1,86 +1,81 @@
-<!--
-![Header Image](https://github.com/user-attachments/assets/7891682a-0a45-42b1-abf4-a111409edc69)
--->
----
-<!--
-# Profile
+<div align="left">
 
-## Tentang Saya
-Perkenalkan, saya **Ahmad Akmal Amran**. Saya adalah mahasiswa **S1 Sistem Informasi** di **Universitas Telkom** yang memiliki ketertarikan besar pada **Software Development**, **System Analyst**, **Data Analysis**.
+<table width="100%">
+<tr>
+<td width="64%" valign="left">
+<h1>Ahmad Akmal Amran</h1>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+AkmalAmran+%F0%9F%91%8B&center=true&width=500&height=45">
+</p> -->
+<p>Information System student at Telkom University</p>
+<!-- <p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Building at Telkom University Bandung</sub></p> -->
+<p><a href="https://github.com/aakmalamran">GitHub</a> &nbsp;·&nbsp; <a href="https:linkedin.com/in/ahmad-akmal-amran">LinkedIn</a> &nbsp;·&nbsp; <a href="https://akmalamranaeza-portfolio.vercel.app">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/165998981?u=c8bcef5ba0aec9fdde39269243c25e7171cbc1c6&amp;v=4" width="180" alt="Ahmad Akmal Amran GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-- Saat ini sedang fokus mendalami **Backend Development**, **Cloud Computing**, dan **Linux (Fedora)**.
-- Sedang mempelajari **Cloud Computing** dan **Web Development**.
-- Hobi: Menikmati dunia *gaming* dan eksplorasi teknologi terbaru.
--->
----
+<!-- <h2>What teams can evaluate quickly</h2>
 
-## Tech Stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or full-stack engineer · Python · Javascript </p></td>
+<td width="33%" valign="top"><h3>Public repos</h3><p>9 repositories</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>313 contributions · 66 active days</p></td>
+</tr>
+</table>
 
-<!-- Languages & Frameworks -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-<!-- Data Analysis -->
-![Pentaho](https://img.shields.io/badge/Pentaho-941014?style=for-the-badge&logo=hitachi&logoColor=white) 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-<!-- Database & Tools -->
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-212121?style=for-the-badge)
-![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p><sub>Undergraduate Information System student at Telkom University</sub></p> -->
 
----
-<!--
+
+
+<!-- <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ahmad Akmal Amran GitHub proof metrics" />
+</picture>
+</p> -->
+
+<!-- <h2>Project</h2>
+
+<!-- <table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AAkmalAmran/CekLinkPhising">CekLinkPhising</a></h3><p>REST API deteksi phishing &amp; URL berbahaya berbasis Python yang mengintegrasikan Google Safe Browsing, VirusTotal, dan URLScan.io.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/TUBES-KELOMPOK-D/ECO-RANGER-TOURISM">ECO-RANGER-TOURISM</a></h3><p>Eco Ranger Tourism adalah sistem informasi pariwisata berbasis web yang dirancang untuk mempromosikan pariwisata ramah lingkungan dan berkelanjutan.</p><p><sub>Blade · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AAkmalAmran/Project-UAS-IAE_Dompet-Digital-Sawit">Project-UAS-IAE_Dompet-Digital-Sawit</a></h3><p>Dompet Digital Sawit adalah sistem layanan keuangan digital yang dibangun menggunakan arsitektur Microservices terdistribusi dengan penerapan Independ</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table> -->
+
+<!-- <h2>Technical toolkit</h2>
+
+ <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ahmad Akmal Amran technology stack" />
+</picture>
+</p> -->
+
+
+<!-- <h2>Consistency signal</h2>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aakmalamran&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165998981%3Fu%3Dc8bcef5ba0aec9fdde39269243c25e7171cbc1c6%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ahmad Akmal Amran contribution activity" />
+</picture>
+</p> -->
+
 ## GitHub Stats
-<div align="center">
+<div align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAkmalAmran&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAkmalAmran&layout=compact&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAkmalAmran&layout=compact&theme=tokyonight" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAkmalAmran&theme=tokyonight" />
+<div align="left">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAkmalAmran&theme=tokyonight" />
 </div>
--->
----
-<!--
-## Pendidikan
-- **Universitas Telkom** (2023 – Sekarang)  
-  Program Studi: *S1 Sistem Informasi*
-- **SMAN 1 Manyar Gresik** (2020 – 2023)  
-  Jurusan: *IPA*
--->
----
-<!--
-## Pengalaman Proyek 
 
-### Data & Business Intelligence
-- **Data Warehouse & Dashboard BI (Instacart Analysis)** – Perancangan *Star Schema* dan implementasi proses ETL menggunakan Pentaho untuk menganalisis loyalitas pelanggan. Visualisasi KPI interaktif dilakukan menggunakan Google Looker Studio.
-- **Data Mining Game Analysis** – Implementasi algoritma Klasifikasi (Logistic Regression/Random Forest) untuk memprediksi perilaku pembelian ulang dan *Clustering* (K-Means) untuk segmentasi pelanggan berdasarkan siklus belanja.
-
-### Software & Web Development
-- **Eco Ranger Tourism (Laravel)** – Pengembangan aplikasi web berbasis GIS untuk pelaporan isu lingkungan dan sistem informasi pariwisata.
-- **Microservices Payment & Bus System (Flask + Docker)** – Implementasi arsitektur microservices untuk tugas Integrasi Aplikasi Enterprise.
-- **Forum Diskusi & Aspirasi Kampus (Laravel)** – Pengembangan platform berbasis web untuk interaksi civitas akademika.
-- **Sistem Restoran (Python + Streamlit)** – Aplikasi manajemen restoran terintegrasi dengan basis data MySQL.
-- **Game Text-Based (Java + MySQL)** – Pengembangan logika permainan menggunakan konsep Pemrograman Berbasis Objek.
--->
 ---
-<!--
-## Hubungi Saya
-- 🔗 LinkedIn: [Ahmad Akmal Amran](https://www.linkedin.com/in/ahmad-akmal-amran/)
-- 📧 Email: ahmadakmalamran@gmail.com
--->
