@@ -10,7 +10,7 @@
 <p>Information System student at Telkom University</p>
 <!-- <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Building at Telkom University Bandung</sub></p> -->
-<p><a href="https://github.com/aakmalamran">GitHub</a> &nbsp;·&nbsp; <a href="https:linkedin.com/in/ahmad-akmal-amran">LinkedIn</a> &nbsp;·&nbsp; <a href="https://akmalamranaeza-portfolio.vercel.app">Website</a></p>
+<p><a href="https://github.com/aakmalamran">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/ahmad-akmal-amran">LinkedIn</a> &nbsp;·&nbsp; <a href="https://akmalamranaeza-portfolio.vercel.app">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <!-- <img src="https://avatars.githubusercontent.com/u/165998981?u=c8bcef5ba0aec9fdde39269243c25e7171cbc1c6&amp;v=4" width="180" alt="Ahmad Akmal Amran GitHub avatar" /> -->
